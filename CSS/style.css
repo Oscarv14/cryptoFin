@@ -27,11 +27,6 @@ main{
         height: 350px;
         object-fit: cover;
       }
-      /* .artSeg{
-        width: 320px;
-        height: 160px;
-      } */
-      
 }
 
 @media all and (min-width: 992px) {
