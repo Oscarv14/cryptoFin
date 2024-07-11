@@ -1,6 +1,6 @@
 # CryptoFin
 
-CryptoFin es una página web informativa dedicada a ofrecer noticias, análisis y recursos sobre el mundo de las finanzas descentralizadas y las criptomonedas.Este proyecto es una práctica de desarrollo web utilizando Bootstrap, HTML y CSS.
+CryptoFin es una página web informativa dedicada a ofrecer noticias, análisis y recursos sobre el mundo de las finanzas descentralizadas y las criptomonedas. Este proyecto es una práctica de desarrollo web utilizando Bootstrap, HTML y CSS.
 
 ## Demo
 
